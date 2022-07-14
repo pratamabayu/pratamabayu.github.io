@@ -2,17 +2,15 @@
 <section class="margin-large">
     {{.Content}}
 
-    <section class="margin-large margin-remove-horizontal@m flex flex-column flex-justify-content-start gap-row-small">
-        <section>
-            <ul id="filters-pane" class="tab flex flex-justify-content-center">
-                <li class="active"><a href="javascript:void(0)" data-filter="All" class="text-nowrap">All</a></li>
-                {{ range .Site.Params.project_categories }}
-                    <li>
-                        <a href="javascript:void(0)" title="{{ . }}" data-filter="{{ . }}" class="text-nowrap">{{ . }}</a>
-                    </li>
-                {{ end }}
-            </ul>
-        </section>
+    <section class="overflow-x-scroll@m margin-large margin-remove-horizontal@m text-nowrap">
+        <ul id="filters-pane" class="tab margin-large margin-remove-vertical margin-remove-all@m">
+            <li class="active"><a href="javascript:void(0)" data-filter="All" class="inline-block">All</a></li>
+            {{ range .Site.Params.project_categories }}
+                <li>
+                    <a href="javascript:void(0)" title="{{ . }}" data-filter="{{ . }}" class="inline-block">{{ . }}</a>
+                </li>
+            {{ end }}
+        </ul>
     </section>
     
     <section id="filters-content" class="margin-large margin-remove-horizontal@m padding-large padding-remove-top padding-remove-horizontal@m grid grid-3-columns grid-1-columns@m gap-medium">
