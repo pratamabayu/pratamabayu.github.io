@@ -81,7 +81,7 @@ aliases: [/about]
                 </div>-->
                 <div class="card-body">
                     <h5>Web</h5>
-                    <p>Web backend, designed with C# language, ASP Net Core framework, MongoDB database, and RabbitMQ message queue. While the web frontend, designed with HTML5, CSS3 &mdash; with <a href="https://github.com/pratamabayu/graff" target="_blank" class="text-underline">the Graff CSS framework</a>, and Typescript &mdash; with the Angular web application framework.<p>
+                    <p>Web backend, designed with C# language, ASP Net Core framework, MongoDB database, and RabbitMQ message queue. While the web frontend, designed with HTML5, CSS3 &mdash; with <a href="https://graff.pratamabayu.com" target="_blank" class="text-underline">the Graff CSS framework</a>, and Typescript &mdash; with the Angular web application framework.<p>
                 </div>
             </div>
             <div class="card card-default box-shadow-large box-shadow-none@dark">
