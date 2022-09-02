@@ -17,7 +17,7 @@ A smart stunning application for Cafe, Restaurant, and many more business place 
 ##### Ordering
 
 <figure>
-  <img src="/images/projects/hungry/feature_1.png" class="width-1/1" title="Hungry Waiter"/>
+  <img src="/images/projects/hungry/feature_1.png" loading="lazy" class="width-1/1" title="Hungry Waiter"/>
   <figcaption class="text-center">Figure 1. Hungry Waiter</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Other advantages are booking data will be immediately forwarded to the posts tha
 ##### Cook It!
 
 <figure>
-  <img src="/images/projects/hungry/feature_2.png" class="width-1/1" title="Hungry Chef"/>
+  <img src="/images/projects/hungry/feature_2.png" loading="lazy" class="width-1/1" title="Hungry Chef"/>
   <figcaption class="text-center">Figure 2. Hungry Chef</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Every order displayed coherently one by one among table. Your chefs wouldn't mis
 ##### Count & Get The Money
 
 <figure>
-  <img src="/images/projects/hungry/feature_3.png" class="width-1/1" title="Hungry Cashier"/>
+  <img src="/images/projects/hungry/feature_3.png" loading="lazy" class="width-1/1" title="Hungry Cashier"/>
   <figcaption class="text-center">Figure 3. Hungry Cashier</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Displayed with accurate information for pricing and calculating, plus feature fo
 ##### Be a Manager
 
 <figure>
-  <img src="/images/projects/hungry/feature_4.png" class="width-1/1" title="Hungry Manager"/>
+  <img src="/images/projects/hungry/feature_4.png" loading="lazy" class="width-1/1" title="Hungry Manager"/>
   <figcaption class="text-center">Figure 5. Hungry Manager</figcaption>
 </figure>
 

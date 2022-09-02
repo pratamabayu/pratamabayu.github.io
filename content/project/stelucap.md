@@ -15,22 +15,22 @@ project_tags: ['C#', 'Unity3D', 'Text to Speech', 'Text to Visemes', 'Indonesian
 A desktop application that converts from text into sound and three-dimensional mouth shape visualization for Indonesian pronunciation.
 
 <figure>
-  <img src="/images/projects/stelucap/feature_1.png" class="width-1/1" title="Default mode, loop is on"/>
+  <img src="/images/projects/stelucap/feature_1.png" loading="lazy" class="width-1/1" title="Default mode, loop is on"/>
   <figcaption class="text-center">Figure 1. Default mode, loop is on</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/projects/stelucap/feature_2.png" class="width-1/1" title="Writing mode, loop is on"/>
+  <img src="/images/projects/stelucap/feature_2.png" loading="lazy" class="width-1/1" title="Writing mode, loop is on"/>
   <figcaption class="text-center">Figure 2. Writing mode, loop is on</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/projects/stelucap/feature_3.png" class="width-1/1" title="Playing mode, orbit is turning left"/>
+  <img src="/images/projects/stelucap/feature_3.png" loading="lazy" class="width-1/1" title="Playing mode, orbit is turning left"/>
   <figcaption class="text-center">Figure 3. Playing mode, orbit is turning left</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/projects/stelucap/feature_4.png" class="width-1/1" title="Default mode, settings panel is on"/>
+  <img src="/images/projects/stelucap/feature_4.png" loading="lazy" class="width-1/1" title="Default mode, settings panel is on"/>
   <figcaption class="text-center">Figure 4. Default mode, settings panel is on</figcaption>
 </figure>
 
