@@ -17,8 +17,6 @@ draft: false
         <p><a id="email-link"></a></p>
         <h6>Address</h6>
         <p>3rd Floor at Penggung Shophouse<br/>Semarang, Indonesia<br/>Postal 50227</p>
-        <h6>Phone</h6>
-        <p><a href="tel:+6285727760737">+62 85 727 760 737</a></p>
     </div>
     <div class="grid-column-span-3 grid-column-span-1@m">
         <h4>Send message for me directly!</h4>
