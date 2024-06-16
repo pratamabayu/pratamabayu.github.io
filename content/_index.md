@@ -16,7 +16,7 @@ aliases: [/about]
     <div><div class="flex align-items-center justify-content-center"><img src="/images/profile_photo.jpg" loading="lazy" class="text-center@m border-radius-1/2" width="128px"/></div></div>
     <div class="grid-column-span-2 grid-column-span-1@m">
         <p>I'm a <span id="my-age"></span>-year-old Designer, Programmer, and Lecturer from Indonesia, currently based in Semarang. I use design thinking to solve problems, especially those related to digital technology. Therefore, I love everything about application, game, and web programming to support it. In my free time, I usually play with my family and play bass instrumentally.</p>
-        <p>I have been writing code since 2005 and have been experienced as a professional freelance application, game, and web programmer since 2014.</p>
+        <p>I have been writing code since 2005 and have been experienced as a professional freelance application, game, and web programmer since 2012.</p>
         <p>Let’s work together, and you won’t be disappointed. So, hire me, and I will make a solution for your business that becomes a lasting success in the marketplace.</p>
     </div>
     <div></div>
