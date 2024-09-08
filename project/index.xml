@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project on Pratama Bayu Widagdo</title><link>/project/</link><description>Recent content in Project on Pratama Bayu Widagdo</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 13:58:33 +0700</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Hungry</title><link>/project/hungry/</link><pubDate>Thu, 17 Jun 2021 13:58:33 +0700</pubDate><guid>/project/hungry/</guid><description>Description A smart stunning application for Cafe, Restaurant, and many more business place about food and coffee. Design for Android and Windows platform make this application can handled for everyone. Ease to operate, just touch and your business run more controlled.
-Ordering Figure 1. Hungry Waiter Take your costumers order with this application, it can be made with a single touch without fear of going error in typing order. Other advantages are booking data will be immediately forwarded to the posts that require such data as the kitchen, the cashier and manager.</description></item><item><title>Impression</title><link>/project/impression/</link><pubDate>Thu, 17 Jun 2021 13:58:33 +0700</pubDate><guid>/project/impression/</guid><description>Description A C# cross platform game toolkit to create 2D and 3D games. Currently, it runs on all major platforms like desktop and mobile, They are
-Windows Mac/OSX Android iOS Linux Universal Windows Platform Windows Store App Windows Mobile Windows Holographic (Hololens) Windows IoT Windows Team Everything you need like data-driven, content pipeline, graphics, input, audio, media, and animation to create awesome game, realtime application, or interactive media are available.</description></item><item><title>Stelucap</title><link>/project/stelucap/</link><pubDate>Thu, 17 Jun 2021 13:58:33 +0700</pubDate><guid>/project/stelucap/</guid><description>Description A desktop application that converts from text into sound and three-dimensional mouth shape visualization for Indonesian pronunciation.
-Figure 1. Default mode, loop is on Figure 2. Writing mode, loop is on Figure 3. Playing mode, orbit is turning left Figure 4. Default mode, settings panel is on Your browser does not support the video tag. Figure 5. Stelucap basic demo</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project on Pratama Bayu Widagdo</title><link>/project/</link><description>Recent content in Project on Pratama Bayu Widagdo</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 13:58:33 +0700</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Hungry</title><link>/project/hungry/</link><pubDate>Thu, 17 Jun 2021 13:58:33 +0700</pubDate><guid>/project/hungry/</guid><description>&lt;h5 id="description">Description&lt;/h5>
+&lt;p>A smart stunning application for Cafe, Restaurant, and many more business place about food and coffee. Design for Android and Windows platform make this application can handled for everyone. Ease to operate, just touch and your business run more controlled.&lt;/p>
+&lt;h5 id="ordering">Ordering&lt;/h5>
+&lt;figure>
+ &lt;img src="/images/projects/hungry/feature_1.png" loading="lazy" class="width-1/1" title="Hungry Waiter"/>
+ &lt;figcaption class="text-center">Figure 1. Hungry Waiter&lt;/figcaption>
+&lt;/figure>
+&lt;p>Take your costumers order with this application, it can be made with a single touch without fear of going error in typing order.
+Other advantages are booking data will be immediately forwarded to the posts that require such data as the kitchen, the cashier and manager. Not only that, this application can display a wide range of the latest notifications each day. Then it will greatly help a waiter for looking how far the process of making food in the kitchen, and it would help also in the list of guests who had booked a table before. This app presented with an elegant display menu, nice color and easy to operate for everyone.&lt;/p></description></item><item><title>Impression</title><link>/project/impression/</link><pubDate>Thu, 17 Jun 2021 13:58:33 +0700</pubDate><guid>/project/impression/</guid><description>&lt;h5 id="description">Description&lt;/h5>
+&lt;p>A C# cross platform game toolkit to create 2D and 3D games. Currently, it runs on all major platforms like desktop and mobile, They are&lt;/p>
+&lt;ol>
+&lt;li>Windows&lt;/li>
+&lt;li>Mac/OSX&lt;/li>
+&lt;li>Android&lt;/li>
+&lt;li>iOS&lt;/li>
+&lt;li>Linux&lt;/li>
+&lt;li>Universal Windows Platform
+&lt;ul>
+&lt;li>Windows Store App&lt;/li>
+&lt;li>Windows Mobile&lt;/li>
+&lt;li>Windows Holographic (Hololens)&lt;/li>
+&lt;li>Windows IoT&lt;/li>
+&lt;li>Windows Team&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>Everything you need like data-driven, content pipeline, graphics, input, audio, media, and animation to create awesome game, realtime application, or interactive media are available.&lt;/p></description></item><item><title>Stelucap</title><link>/project/stelucap/</link><pubDate>Thu, 17 Jun 2021 13:58:33 +0700</pubDate><guid>/project/stelucap/</guid><description>&lt;h5 id="description">Description&lt;/h5>
+&lt;p>A desktop application that converts from text into sound and three-dimensional mouth shape visualization for Indonesian pronunciation.&lt;/p>
+&lt;figure>
+ &lt;img src="/images/projects/stelucap/feature_1.png" loading="lazy" class="width-1/1" title="Default mode, loop is on"/>
+ &lt;figcaption class="text-center">Figure 1. Default mode, loop is on&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+ &lt;img src="/images/projects/stelucap/feature_2.png" loading="lazy" class="width-1/1" title="Writing mode, loop is on"/>
+ &lt;figcaption class="text-center">Figure 2. Writing mode, loop is on&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+ &lt;img src="/images/projects/stelucap/feature_3.png" loading="lazy" class="width-1/1" title="Playing mode, orbit is turning left"/>
+ &lt;figcaption class="text-center">Figure 3. Playing mode, orbit is turning left&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+ &lt;img src="/images/projects/stelucap/feature_4.png" loading="lazy" class="width-1/1" title="Default mode, settings panel is on"/>
+ &lt;figcaption class="text-center">Figure 4. Default mode, settings panel is on&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+ &lt;video class="width-1/1" controls>
+ &lt;source src="https://dl.dropboxusercontent.com/s/lrvy0zc7e7qstto/Screencast.mp4?dl=1" type="video/mp4">
+ Your browser does not support the video tag.
+ &lt;/video>
+ &lt;figcaption class="text-center">Figure 5. Stelucap basic demo&lt;/figcaption>
+&lt;/figure></description></item></channel></rss>
