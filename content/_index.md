@@ -49,7 +49,7 @@ aliases: [/about]
         <p>Teaching is another way to gain insight. Talking about the combination of art, design, and digital technology that can provide a solution to a problem is always interesting to me.</p>
     </div>
     <div>
-        <p>August 2016 - current</p>
+        <p>August 2016 - present</p>
     </div>
     <div></div>
     <div class="grid-column-span-2 grid-column-span-1@m">
@@ -58,7 +58,7 @@ aliases: [/about]
         <p>I also work as a freelance IT consultant and independent app, web, and game developer, so I sometimes get paid for that.</p>
     </div>
     <div>
-        <p>June 2012 - current</p>
+        <p>June 2012 - present</p>
     </div>
 </section>
 
