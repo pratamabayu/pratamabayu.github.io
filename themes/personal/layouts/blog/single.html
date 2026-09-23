@@ -1,0 +1,37 @@
+{{ define "main" }}
+<section class="margin-large margin-medium@m">
+    <section class="flex flex-align-items-center flex-justify-content-center">
+        <div>
+            <h1 class="text-center">{{ .Title }}</h1>
+            <div class="flex flex-wrap flex-justify-content-center gap-column-xsmall">
+                {{ range .Params.article_categories }}
+                    <span class="tag border-radius-xsmall">{{ . }}</span>
+                {{ end }}
+            </div>
+            <div class="flex flex-wrap flex-justify-content-center gap-column-xsmall">
+                {{ range .Params.article_tags }}
+                    <span class="tag border-radius-xsmall">{{ . }}</span>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    
+    <section class="margin-large margin-remove-horizontal@m grid grid-4-columns grid-1-columns@m gap-medium">
+        <div class="grid-column-span-3 grid-column-span-1@m">{{.Content}}</div>
+        <div>
+            <h5>Categories</h5>
+            <div class="flex flex-wrap flex-justify-content-start gap-column-xsmall">
+                {{ range .Site.Params.article_categories }}
+                    <span class="tag border-radius-xsmall">{{ . }}</span>
+                {{ end }}
+            </div>
+            <h5>Tags</h5>
+            <div class="flex flex-wrap flex-justify-content-start gap-column-xsmall">
+                {{ range .Site.Params.article_tags }}
+                    <span class="tag border-radius-xsmall">{{ . }}</span>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+</section>
+{{ end }}
